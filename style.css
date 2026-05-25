@@ -35,9 +35,11 @@ body{
     cursor:pointer;
 }
 
-.sidebar li:hover{
-    background:#8a63ff;
+.sidebar a{
+    text-decoration:none;
+    color:white;
 }
+
 
 /* MAIN CONTENT */
 
